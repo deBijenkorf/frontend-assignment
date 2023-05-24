@@ -17,4 +17,5 @@ Create a service that retrieves the data from the above mentioned API. This data
 - Data is retrieved from the API when the search query is longer than 2 characters;
 - Data is retrieved asynchronously;
 - Visibility of results list;
+- Matching search query should be highlighted in results;
 - Unit test for above scenario's (including a mock so that we don't go to the network in the test).
