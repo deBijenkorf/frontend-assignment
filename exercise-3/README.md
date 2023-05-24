@@ -8,7 +8,7 @@ curl -s http://localhost:3000/api/search?search=ca
 If your application is not running, use the following command to start it:
 
 ```
-npm run start
+npm run dev
 ```
 
 Create a service that retrieves the data from the above mentioned API. This data should be used to render the search suggestions. Search suggestions should be rendered according to the designs in excercise3.png. Pay attention to the following:
