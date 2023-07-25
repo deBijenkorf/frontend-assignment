@@ -4,10 +4,15 @@ Welcome! This technical assessment is designed to help us better understand your
 
 ## Exercises
 
-You will find the exercises and associated instructions in separate named folders in the root of this project. This assignment is [timeboxed](https://en.wikipedia.org/wiki/Timeboxing) to **8 hours** max.
+You will find the exercises and associated instructions in separate named folders in the root of this project.
+
+## Requirements
+
+In order for us to be able to assess your understanding of core web development fundamentals better, we would appreciate it if you don't use any CSS frameworks (such as TailwindCSS) and design system libraries (such as Material UI).
+
 
 ## Notes
-If you have any remarks or observations while working on this assignment you are encouraged submit these along with the assignment.
+If you have any remarks or observations while working on this assignment you are encouraged to submit these along with the assignment.
 
 ## Submitting your code
 If you are completing this offsite please push your local working copy to a remote repository and mail the link to the person that sent you the assignment.
