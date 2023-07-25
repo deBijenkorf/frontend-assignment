@@ -6,6 +6,10 @@ Welcome! This technical assessment is designed to help us better understand your
 
 You will find the exercises and associated instructions in separate named folders in the root of this project. This assignment is [timeboxed](https://en.wikipedia.org/wiki/Timeboxing) to **8 hours** max.
 
+## Requirements
+
+Given that the scope of this assignment is quite small, we encourage you not to use design systems or CSS frameworks such as Tailwind or Material UI. We understand these tools have value and increase productivity, however, in the context of the assignment, they can obscure your thought process and problem-solving approach. We want to see how you handle raw challenges, and these tools can sometimes mask that. Remember, this exercise is about demonstrating your problem-solving skills and your coding abilities.
+
 ## Notes
 If you have any remarks or observations while working on this assignment you are encouraged submit these along with the assignment.
 
