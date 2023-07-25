@@ -4,7 +4,7 @@ Welcome! This technical assessment is designed to help us better understand your
 
 ## Exercises
 
-You will find the exercises and associated instructions in separate named folders in the root of this project. This assignment is [timeboxed](https://en.wikipedia.org/wiki/Timeboxing) to **8 hours** max.
+You will find the exercises and associated instructions in separate named folders in the root of this project.
 
 ## Requirements
 
