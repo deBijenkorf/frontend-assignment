@@ -10,7 +10,6 @@ You will find the exercises and associated instructions in separate named folder
 
 In order for us to be able to assess your understanding of core web development fundamentals better, we would appreciate it if you don't use any CSS frameworks (such as TailwindCSS) and design system libraries (such as Material UI).
 
-* No CSS frameworks
 * No design system libraries
 
 ## Notes
