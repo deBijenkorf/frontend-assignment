@@ -8,7 +8,7 @@ You will find the exercises and associated instructions in separate named folder
 
 ## Requirements
 
-Given that the scope of this assignment is quite small, we have a few requirements that will help us get a better look into your thought process and problem solving skills. 
+In order for us to be able to assess your understanding of core web development fundamentals better, we would appreciate it if you don't use any CSS frameworks (such as TailwindCSS) and design system libraries (such as Material UI).
 
 * No CSS frameworks
 * No design system libraries
