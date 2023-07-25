@@ -11,7 +11,7 @@ You will find the exercises and associated instructions in separate named folder
 Given that the scope of this assignment is quite small, we encourage you not to use design systems or CSS frameworks but to write plain css/scss just like we do at de Bijenkorf. We understand these tools have value and increase productivity, however, in the context of the assignment, they can obscure your thought process and problem-solving approach. We want to see how you handle challenges, and these tools can sometimes mask that Remember, this exercise is about demonstrating your problem-solving skills and your coding abilities.
 
 ## Notes
-If you have any remarks or observations while working on this assignment you are encouraged submit these along with the assignment.
+If you have any remarks or observations while working on this assignment you are encouraged to submit these along with the assignment.
 
 ## Submitting your code
 If you are completing this offsite please push your local working copy to a remote repository and mail the link to the person that sent you the assignment.
